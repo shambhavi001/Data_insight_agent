@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/32278099/README.md)
-# PySpark Data Insights Agent
+
+# Data Insights Agent
 
 A Google ADK analytics agent that answers natural-language questions about the restaurant Tips dataset. The agent uses PySpark for aggregations, Gemini for a short narrated summary, Matplotlib for chart generation, and simple in-memory storage for the latest question.
 
